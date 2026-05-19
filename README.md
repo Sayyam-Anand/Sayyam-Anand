@@ -34,10 +34,9 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 ## Tools
 ### OSINT & Investigations
 <div>
-<img src="https://img.shields.io/badge/-Maltego-000000?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Dorking-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Earth-34A853?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Sherlock-2d7d9a?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-TinEye-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Practice Platforms
@@ -65,5 +64,6 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 
 ## Currently Learning
 - TryHackMe OSINT rooms (3 daily target)
+- TraceLabs CTF preparation
 - Encoding & cipher recognition
 - Threat intelligence fundamentals
