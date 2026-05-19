@@ -26,7 +26,7 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 | OSINT Collection & Analysis          | *Writeups coming soon*    |
 | Digital Footprint Analysis           | *Writeups coming soon*    |
 | Metadata Analysis                    | *Writeups coming soon*    |
-| Source Verification & Cross-Referencing | *Writeups coming soon* |
+| Source Verification & Cross-Referencing |  <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a> |
 | Geolocation & GEOINT                 | *Writeups coming soon*    |
 | Berkeley Protocol                    | *Writeups coming soon*    |
 | AI-Assisted Research                 | *Writeups coming soon*    |
@@ -54,7 +54,14 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 | Searchlight  | Medium     | Geolocation, Google Earth, angle matching    |
 
 ## Projects & Writeups
-*Coming soon — currently completing rooms and documenting findings.*
+### OSINT Exercise Writeups (Gralhix – Sofia Santos)
+| Exercise | Difficulty | Key Skills |
+|----------|------------|------------|
+| <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>| Easy | Reverse Image Search, Source Verification, Media Misattribution |
+| Exercise 021 | Easy | Coming soon |
+
+### TryHackMe Writeups
+*Coming soon*
 
 ## Currently Learning
 - TryHackMe OSINT rooms (3 daily target)
