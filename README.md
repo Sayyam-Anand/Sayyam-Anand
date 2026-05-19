@@ -58,6 +58,5 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 
 ## Currently Learning
 - TryHackMe OSINT rooms (3 daily target)
-- TraceLabs CTF preparation
 - Encoding & cipher recognition
 - Threat intelligence fundamentals
