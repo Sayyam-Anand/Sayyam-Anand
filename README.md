@@ -26,7 +26,7 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 | OSINT Collection & Analysis          | *Writeups coming soon*    |
 | Digital Footprint Analysis           | *Writeups coming soon*    |
 | Metadata Analysis                    | *Writeups coming soon*    |
-| Source Verification & Cross-Referencing |  <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>, <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
+| Source Verification & Cross-Referencing |<a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
 | Geolocation & GEOINT                 | *Writeups coming soon*    |
 | Berkeley Protocol                    | *Writeups coming soon*    |
 | AI-Assisted Research                 | *Writeups coming soon*    |
