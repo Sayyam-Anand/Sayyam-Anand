@@ -21,15 +21,16 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 </div>
 
 ## Skills
-| Skill                                | Associated Project        |
-|--------------------------------------|---------------------------|
-| OSINT Collection & Analysis          | *Writeups coming soon*    |
-| Digital Footprint Analysis           | *Writeups coming soon*    |
-| Metadata Analysis                    | *Writeups coming soon*    |
-| Source Verification & Cross-Referencing |<a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>, <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
-| Geolocation & GEOINT                 | *Writeups coming soon*    |
-| Berkeley Protocol                    | *Writeups coming soon*    |
-| AI-Assisted Research                 | *Writeups coming soon*    |
+| Skill                                   | Associated Project |
+|-----------------------------------------|--------------------|
+| OSINT Collection & Analysis             | *Writeups coming soon* |
+| Digital Footprint Analysis              | *Writeups coming soon* |
+| Metadata Analysis                       | *Writeups coming soon* |
+| Source Verification & Cross-Referencing | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>, <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
+| Geolocation & GEOINT                    | *Writeups coming soon* |
+| Evidence Preservation                   | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
+| Berkeley Protocol                       | *Writeups coming soon* |
+| AI-Assisted Research                    | *Writeups coming soon* |
 
 ## Tools
 ### OSINT & Investigations
@@ -37,6 +38,7 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 <img src="https://img.shields.io/badge/-Google_Dorking-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Earth-34A853?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TinEye-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wayback_Machine-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Practice Platforms
@@ -46,17 +48,18 @@ analyst roles in OSINT investigations and cyber threat intelligence.
 </div>
 
 ## TryHackMe Rooms Completed
-| Room         | Difficulty | Key Skills Practiced                        |
-|--------------|------------|---------------------------------------------|
-| OhSINT       | Easy       | OSINT workflows, tool familiarization        |
-| Sakura       | Medium     | Blockchain tracing, cryptocurrency analysis  |
-| Searchlight  | Medium     | Geolocation, Google Earth, angle matching    |
+| Room        | Difficulty | Key Skills Practiced                        |
+|-------------|------------|---------------------------------------------|
+| OhSINT      | Easy       | OSINT workflows, tool familiarization        |
+| Sakura      | Medium     | Blockchain tracing, cryptocurrency analysis  |
+| Searchlight | Medium     | Geolocation, Google Earth, angle matching    |
 
 ## Projects & Writeups
+
 ### OSINT Exercise Writeups (Gralhix – Sofia Santos)
 | Exercise | Difficulty | Key Skills |
 |----------|------------|------------|
-| <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>| Easy | Reverse Image Search, Source Verification, Media Misattribution |
+| <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a> | Easy | Reverse Image Search, Source Verification, Media Misattribution |
 | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> | Easy | Reverse Image Search & Source Tracing, Multi-Source Verification, Evidence Preservation |
 
 ### TryHackMe Writeups
