@@ -9,8 +9,7 @@ I'm a first-year B.Tech Computer Science student at **Jaypee Institute of Inform
 
 I'm currently building strong fundamentals in software development, artificial intelligence, and cybersecurity. Before starting college, I developed an interest in Open-Source Intelligence (OSINT), which introduced me to structured research, source verification, and investigative thinking.
 
-This portfolio documents my learning journey through projects, writeups, and experiments as I grow as a software engineer.
-
+This GitHub documents my learning journey through projects, writeups, and experiments as I build a strong foundation in computer science, software engineering, artificial intelligence, and cybersecurity.
 ---
 
 ## 🎯 Current Focus
