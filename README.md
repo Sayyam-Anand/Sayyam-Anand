@@ -1,72 +1,86 @@
-# Hi, I'm Sayyam Anand
+# Hi, I'm Sayyam Anand 👋
+
 <a href="https://www.linkedin.com/in/sayyam-anand-2581973aa">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-I'm an OSINT researcher building a foundation in open-source intelligence 
-and digital investigations — working toward roles in OSINT investigations 
-and, longer term, cyber threat intelligence.
+I'm a first-year B.Tech Computer Science student at **Jaypee Institute of Information Technology (JIIT), Noida**.
 
-## Objective
-Currently focused on developing practical OSINT and investigative skills 
-through structured training and hands-on CTF challenges. Building toward 
-analyst roles in OSINT investigations and cyber threat intelligence.
+I'm currently building strong fundamentals in software development, artificial intelligence, and cybersecurity. Before starting college, I developed an interest in Open-Source Intelligence (OSINT), which introduced me to structured research, source verification, and investigative thinking.
 
-## Certifications
+This portfolio documents my learning journey through projects, writeups, and experiments as I grow as a software engineer.
+
+---
+
+## 🎯 Current Focus
+
+- Programming (C, C++, Python)
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Open-Source Intelligence (OSINT)
+- Building practical projects
+
+---
+
+## 🛠️ Technologies
+
+### Languages
 <div>
-<img src="https://img.shields.io/badge/-OSINT_L1_Foundations-0a1628?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-OSINT_L2_Investigations-0a1628?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-OSINT_L3_Advanced_Techniques-0a1628?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-TraceLabs_OSINT_Educational_Series-2d7d9a?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 
-## Skills
-| Skill                                   | Associated Project |
-|-----------------------------------------|--------------------|
-| OSINT Collection & Analysis             | *Writeups coming soon* |
-| Digital Footprint Analysis              | *Writeups coming soon* |
-| Metadata Analysis                       | *Writeups coming soon* |
-| Source Verification & Cross-Referencing | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a>, <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
-| Geolocation & GEOINT                    | *Writeups coming soon* |
-| Evidence Preservation                   | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> |
-| Berkeley Protocol                       | *Writeups coming soon* |
-| AI-Assisted Research                    | *Writeups coming soon* |
+> More technologies will be added as I progress through my degree.
 
-## Tools
-### OSINT & Investigations
+---
+
+## 📜 Certifications
+
 <div>
-<img src="https://img.shields.io/badge/-Google_Dorking-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Earth-34A853?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-TinEye-000000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Wayback_Machine-000000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OSINT_L1_Foundations-0a1628?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-OSINT_L2_Investigations-0a1628?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-OSINT_L3_Advanced_Techniques-0a1628?&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-TraceLabs_OSINT_Educational_Series-2d7d9a?&style=for-the-badge"/>
 </div>
 
-### Practice Platforms
-<div>
-<img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/-F1NDX-0a1628?&style=for-the-badge&logoColor=white" />
-</div>
+---
 
-## TryHackMe Rooms Completed
-| Room        | Difficulty | Key Skills Practiced                        |
-|-------------|------------|---------------------------------------------|
-| OhSINT      | Easy       | OSINT workflows, tool familiarization        |
-| Sakura      | Medium     | Blockchain tracing, cryptocurrency analysis  |
-| Searchlight | Medium     | Geolocation, Google Earth, angle matching    |
+## 🚀 Projects
 
-## Projects & Writeups
+| Project | Status |
+|---------|--------|
+| Personal Portfolio | Coming Soon |
+| C Programming Projects | Coming Soon |
+| OSINT Exercise Writeups | In Progress |
+| AI / ML Projects | Coming Soon |
+| Cybersecurity Labs | Coming Soon |
 
-### OSINT Exercise Writeups (Gralhix – Sofia Santos)
-| Exercise | Difficulty | Key Skills |
-|----------|------------|------------|
-| <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos-/tree/main">Exercise 006</a> | Easy | Reverse Image Search, Source Verification, Media Misattribution |
-| <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Exercise 031</a> | Easy | Reverse Image Search & Source Tracing, Multi-Source Verification, Evidence Preservation |
+---
 
-### TryHackMe Writeups
-*Coming soon*
+## 📖 Learning Journey
 
-## Currently Learning
-- TryHackMe OSINT rooms
-- TraceLabs CTF preparation
-- Encoding & cipher recognition
-- Threat intelligence fundamentals
+Currently learning:
+
+- C Programming
+- Problem Solving
+- Git & GitHub
+- Linux Fundamentals
+- AI & Machine Learning Fundamentals
+- Cybersecurity Fundamentals
+
+---
+
+## 📝 OSINT Writeups
+
+| Exercise | Topic |
+|----------|-------|
+| Exercise 006 | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-006-Gralhix-Sofia-Santos">Reverse Image Search & Source Verification</a> |
+| Exercise 031 | <a href="https://github.com/Sayyam-Anand/OSINT-Exercise-031-Gralhix-Sofia-Santos">Multi-Source Verification & Evidence Preservation</a>|
+
+More writeups will be added over time.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with students, developers, researchers, and cybersecurity enthusiasts who enjoy learning and building useful technology.
