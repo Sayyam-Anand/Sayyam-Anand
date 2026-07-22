@@ -1,8 +1,9 @@
 # Hi, I'm Sayyam Anand 👋
 
 <a href="https://www.linkedin.com/in/sayyam-anand-2581973aa">
-<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a> <br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sayyam-anand" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sayyam-anand?trk=profile-badge">Sayyam Anand</a></div><br>
 
 I'm a first-year B.Tech Computer Science student at **Jaypee Institute of Information Technology (JIIT), Noida**.
 
